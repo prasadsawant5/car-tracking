@@ -1,0 +1,5 @@
+[h_low: 82, s_low: 34, v_low: 104], [h_high: 116, s_high: 83, v_high: 225] 
+[h_low: 105, s_low: 32, v_low: 69], [h_high: 128, s_high: 80, v_high: 180] 
+[h_low: 57, s_low: 0, v_low: 59], [h_high: 144, s_high: 78, v_high: 251] 
+[h_low: 75, s_low: 0, v_low: 85], [h_high: 144, s_high: 82, v_high: 248] 
+[h_low: 79, s_low: 0, v_low: 102], [h_high: 164, s_high: 57, v_high: 253] 
